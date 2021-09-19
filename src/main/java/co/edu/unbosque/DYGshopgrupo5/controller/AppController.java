@@ -1,4 +1,4 @@
-package com.tienda.mintic.controller;
+package co.edu.unbosque.DYGshopgrupo5.controller;
 
 
 import org.springframework.stereotype.Controller;

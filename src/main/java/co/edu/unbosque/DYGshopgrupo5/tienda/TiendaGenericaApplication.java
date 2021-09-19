@@ -1,4 +1,4 @@
-package com.tienda.mintic;
+package co.edu.unbosque.DYGshopgrupo5.tienda;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
